@@ -18,7 +18,10 @@ Aayush Parikh(100724827)
 6. Get Familiar with Decorator Pattern
 
 ## Final Submission:
-
+[Group Lab Report](https://docs.google.com/document/d/1X8ivFl2dnEdudiin6pxNG3OYcaGRvF-BsRtHpKMAXRs/edit?usp=sharing)<br>
+[Part 2](https://drive.google.com/file/d/1tJme84__sRaQ4Z_tXoPtGXgLG3kf9evV/view?usp=sharing)<br>
+[Part 3](https://drive.google.com/file/d/1QkID_iUKgsNK1Bl_SffPup9svU_S7f8j/view?usp=sharing)<br>
+[Design - PV test video](https://drive.google.com/file/d/1dk1QEqLSRXqenw41Z8r7PP3kqaQrF2w3/view?usp=sharing)
 
 ## Individual Submissions:
 
@@ -33,7 +36,10 @@ Aayush Parikh(100724827)
 
 
 ### Matheeshan 
-
+[Lab 3: Deploying a Circuit Breaking ambassador and a Function-as-a-Service (FaaS Individual Report)](https://github.com/hsultoo/Lab-Three/blob/main/Matheeshan/Lab%203_%20Deploying%20a%20Circuit%20Breaking%20ambassador%20and%20a%20Function-as-a-Service%20(FaaS).pdf)<br>
+[Lab Three - Part One](https://youtu.be/TAwSk_V3Ymo)<br>
+[Lab Three - Part Two](https://youtu.be/bIWGd2QS520)<br>
+[Lab Three - Part Three](https://youtu.be/eRUDoryMimI)<br>
 
 
 
