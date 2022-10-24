@@ -26,13 +26,17 @@ Aayush Parikh(100724827)
 ## Individual Submissions:
 
 ### Aaditya
+[Aaditya Rajput Lab 3.docx](https://github.com/hsultoo/Lab-Three/blob/main/Aaditya/Aaditya%20Rajput%20Lab%203.docx)<br>
 
 
 ### Aayush
+[Distributed Systems Lab 3.docx](https://github.com/hsultoo/Lab-Three/blob/main/Aayush%20-%20Lab%203/Distributed%20Systems%20Lab%203.docx)<br>
 
 
 
 ### Hemshikha 
+[Distributed Lab 3 - 100670616.pdf](https://github.com/hsultoo/Lab-Three/blob/main/Hemshikha%20-%20LAB3/Distributed%20Lab%203%20-%20100670616.pdf)<br>
+[Video Links](https://github.com/hsultoo/Lab-Three/blob/main/Hemshikha%20-%20LAB3/Video%20Links.txt)<br>
 
 
 ### Matheeshan 
